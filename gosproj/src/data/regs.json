@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "region": "Москва",
+    "def_prof": -15972,
+    "release": 19843,
+    "need": 35815,
+    "accepted": 219839,
+    "released": 165177,
+    "proc": 24.86
+  },
+  {
+    "id": 2,
+    "region": "Санкт-Петербург",
+    "def_prof": -8644,
+    "release": 4337,
+    "need": 12981,
+    "accepted": 92641,
+    "released": 63448,
+    "proc": 31.51
+  },
+  {
+    "id": 3,
+    "region": "Новосибирская область",
+    "def_prof": -2684,
+    "release": 958,
+    "need": 3642,
+    "accepted": 27316,
+    "released": 17492,
+    "proc": 35.96
+  },
+  {
+    "id": 4,
+    "region": "Свердловская область",
+    "def_prof": -2689,
+    "release": 840,
+    "need": 3529,
+    "accepted": 31567,
+    "released": 23929,
+    "proc": 24.2
+  },
+  {
+    "id": 5,
+    "region": "Краснодарский край",
+    "def_prof": -2881,
+    "release": 522,
+    "need": 3403,
+    "accepted": 26414,
+    "released": 25030,
+    "proc": 5.24
+  },
+  {
+    "id": 6,
+    "region": "Республика Татарстан ",
+    "def_prof": -2477,
+    "release": 867,
+    "need": 3344,
+    "accepted": 38260,
+    "released": 30738,
+    "proc": 19.66
+  },
+  {
+    "id": 7,
+    "region": "Московская область",
+    "def_prof": -2001,
+    "release": 759,
+    "need": 2760,
+    "accepted": 19935,
+    "released": 15586,
+    "proc": 21.82
+  },
+  {
+    "id": 8,
+    "region": "Нижегородская область",
+    "def_prof": -2050,
+    "release": 678,
+    "need": 2728,
+    "accepted": 22801,
+    "released": 17742,
+    "proc": 22.19
+  },
+  {
+    "id": 9,
+    "region": "Ростовская область",
+    "def_prof": -1180,
+    "release": 1315,
+    "need": 2495,
+    "accepted": 34498,
+    "released": 29257,
+    "proc": 15.19
+  },
+  {
+    "id": 10,
+    "region": "Самарская область",
+    "def_prof": -970,
+    "release": 1257,
+    "need": 2227,
+    "accepted": 26157,
+    "released": 19205,
+    "proc": 26.58
+  },
+  {
+    "id": 11,
+    "region": "Воронеж область",
+    "def_prof": -1058,
+    "release": 931,
+    "need": 1989,
+    "accepted": 22642,
+    "released": 18438,
+    "proc": 18.57
+  },
+  {
+    "id": 12,
+    "region": "Пермский край ",
+    "def_prof": -1121,
+    "release": 460,
+    "need": 1581,
+    "accepted": 15394,
+    "released": 10207,
+    "proc": 33.69
+  },
+  {
+    "id": 13,
+    "region": "Челябинская область",
+    "def_prof": -566,
+    "release": 848,
+    "need": 1414,
+    "accepted": 21824,
+    "released": 18746,
+    "proc": 14.1
+  },
+  {
+    "id": 14,
+    "region": "Республика Башкортостан",
+    "def_prof": -140,
+    "release": 1269,
+    "need": 1409,
+    "accepted": 26006,
+    "released": 20097,
+    "proc": 22.72
+  },
+  {
+    "id": 15,
+    "region": "Саратовская область",
+    "def_prof": -479,
+    "release": 626,
+    "need": 1105,
+    "accepted": 17794,
+    "released": 15948,
+    "proc": 10.37
+  },
+  {
+    "id": 16,
+    "region": "Красноярский край",
+    "def_prof": -603,
+    "release": 492,
+    "need": 1095,
+    "accepted": 16773,
+    "released": 13057,
+    "proc": 22.15
+  },
+  {
+    "id": 17,
+    "region": "Волгоградская область",
+    "def_prof": -732,
+    "release": 237,
+    "need": 969,
+    "accepted": 15012,
+    "released": 11724,
+    "proc": 21.9
+  },
+  {
+    "id": 18,
+    "region": "Приморский край",
+    "def_prof": -458,
+    "release": 353,
+    "need": 811,
+    "accepted": 11736,
+    "released": 8971,
+    "proc": 23.56
+  },
+  {
+    "id": 19,
+    "region": "Томская область",
+    "def_prof": -410,
+    "release": 399,
+    "need": 809,
+    "accepted": 16574,
+    "released": 10674,
+    "proc": 35.6
+  },
+  {
+    "id": 20,
+    "region": "Удмурская республика",
+    "def_prof": -541,
+    "release": 266,
+    "need": 807,
+    "accepted": 11539,
+    "released": 8595,
+    "proc": 25.51
+  },
+  {
+    "id": 21,
+    "region": "Ярославская область",
+    "def_prof": -590,
+    "release": 217,
+    "need": 807,
+    "accepted": 7762,
+    "released": 5521,
+    "proc": 28.87
+  },
+  {
+    "id": 22,
+    "region": "Омская область",
+    "def_prof": -352,
+    "release": 448,
+    "need": 800,
+    "accepted": 21844,
+    "released": 14704,
+    "proc": 32.69
+  },
+  {
+    "id": 23,
+    "region": "Тюменская область",
+    "def_prof": -619,
+    "release": 169,
+    "need": 788,
+    "accepted": 12283,
+    "released": 10346,
+    "proc": 15.77
+  },
+  {
+    "id": 24,
+    "region": "Иркутская область",
+    "def_prof": -454,
+    "release": 326,
+    "need": 780,
+    "accepted": 17031,
+    "released": 11918,
+    "proc": 30.02
+  },
+  {
+    "id": 25,
+    "region": "Ульяновская область",
+    "def_prof": -616,
+    "release": 128,
+    "need": 744,
+    "accepted": 8285,
+    "released": 6826,
+    "proc": 17.61
+  },
+  {
+    "id": 26,
+    "region": "Кемеровская область",
+    "def_prof": -339,
+    "release": 400,
+    "need": 739,
+    "accepted": 10707,
+    "released": 8790,
+    "proc": 17.9
+  },
+  {
+    "id": 27,
+    "region": "Тульская область",
+    "def_prof": -459,
+    "release": 250,
+    "need": 709,
+    "accepted": 10149,
+    "released": 5309,
+    "proc": 47.69
+  },
+  {
+    "id": 28,
+    "region": "Алтайский край",
+    "def_prof": -121,
+    "release": 545,
+    "need": 666,
+    "accepted": 13048,
+    "released": 8951,
+    "proc": 31.4
+  },
+  {
+    "id": 29,
+    "region": "Ставропольский край",
+    "def_prof": -327,
+    "release": 319,
+    "need": 646,
+    "accepted": 15900,
+    "released": 15571,
+    "proc": 2.07
+  },
+  {
+    "id": 30,
+    "region": "Республика Крым",
+    "def_prof": -354,
+    "release": 220,
+    "need": 574,
+    "accepted": 9148,
+    "released": 8832,
+    "proc": 3.45
+  },
+  {
+    "id": 31,
+    "region": "Калининградская область",
+    "def_prof": -242,
+    "release": 325,
+    "need": 567,
+    "accepted": 5588,
+    "released": 3552,
+    "proc": 36.44
+  },
+  {
+    "id": 32,
+    "region": "Тверская область",
+    "def_prof": -461,
+    "release": 93,
+    "need": 554,
+    "accepted": 5444,
+    "released": 4817,
+    "proc": 11.52
+  },
+  {
+    "id": 33,
+    "region": "Пензенская область",
+    "def_prof": 205,
+    "release": 732,
+    "need": 527,
+    "accepted": 7612,
+    "released": 6611,
+    "proc": 13.15
+  },
+  {
+    "id": 34,
+    "region": "Владимирская область",
+    "def_prof": -248,
+    "release": 277,
+    "need": 525,
+    "accepted": 6999,
+    "released": 5878,
+    "proc": 16.02
+  },
+  {
+    "id": 35,
+    "region": "Рязанская область",
+    "def_prof": -468,
+    "release": 46,
+    "need": 514,
+    "accepted": 7122,
+    "released": 5738,
+    "proc": 19.43
+  },
+  {
+    "id": 36,
+    "region": "Хабаровкий край",
+    "def_prof": -385,
+    "release": 116,
+    "need": 501,
+    "accepted": 9804,
+    "released": 9328,
+    "proc": 4.86
+  },
+  {
+    "id": 37,
+    "region": "Белгородская область",
+    "def_prof": -345,
+    "release": 152,
+    "need": 497,
+    "accepted": 12049,
+    "released": 9821,
+    "proc": 18.49
+  },
+  {
+    "id": 38,
+    "region": "Калужская область",
+    "def_prof": -434,
+    "release": 57,
+    "need": 491,
+    "accepted": 5660,
+    "released": 3422,
+    "proc": 39.54
+  },
+  {
+    "id": 39,
+    "region": "Чувашская Республика",
+    "def_prof": -237,
+    "release": 243,
+    "need": 480,
+    "accepted": 8052,
+    "released": 7394,
+    "proc": 8.17
+  },
+  {
+    "id": 40,
+    "region": "Кировская область",
+    "def_prof": -214,
+    "release": 257,
+    "need": 471,
+    "accepted": 7052,
+    "released": 5659,
+    "proc": 19.75
+  },
+  {
+    "id": 41,
+    "region": "Оренбургская область",
+    "def_prof": -123,
+    "release": 326,
+    "need": 449,
+    "accepted": 10597,
+    "released": 8261,
+    "proc": 22.04
+  },
+  {
+    "id": 42,
+    "region": "Вологодская область",
+    "def_prof": -247,
+    "release": 181,
+    "need": 428,
+    "accepted": 4899,
+    "released": 3586,
+    "proc": 26.8
+  },
+  {
+    "id": 43,
+    "region": "Ханты-Мансийский Автономный округ",
+    "def_prof": -167,
+    "release": 197,
+    "need": 364,
+    "accepted": 5036,
+    "released": 4724,
+    "proc": 6.2
+  },
+  {
+    "id": 44,
+    "region": "Липецкая область",
+    "def_prof": -292,
+    "release": 64,
+    "need": 356,
+    "accepted": 4712,
+    "released": 4670,
+    "proc": 0.89
+  },
+  {
+    "id": 45,
+    "region": "Ивановская область",
+    "def_prof": -159,
+    "release": 182,
+    "need": 341,
+    "accepted": 6214,
+    "released": 4838,
+    "proc": 22.14
+  },
+  {
+    "id": 46,
+    "region": "Курская область",
+    "def_prof": 108,
+    "release": 439,
+    "need": 331,
+    "accepted": 9263,
+    "released": 7764,
+    "proc": 16.18
+  },
+  {
+    "id": 47,
+    "region": "Харьковская область",
+    "def_prof": -158,
+    "release": 157,
+    "need": 315,
+    "accepted": 0,
+    "released": 0,
+    "proc": 0
+  },
+  {
+    "id": 48,
+    "region": "Ленинградская область",
+    "def_prof": -88,
+    "release": 215,
+    "need": 303,
+    "accepted": 1047,
+    "released": 994,
+    "proc": 5.06
+  },
+  {
+    "id": 49,
+    "region": "Смоленская область",
+    "def_prof": -143,
+    "release": 147,
+    "need": 290,
+    "accepted": 5140,
+    "released": 4276,
+    "proc": 16.81
+  },
+  {
+    "id": 50,
+    "region": "Брянская область",
+    "def_prof": 52,
+    "release": 339,
+    "need": 287,
+    "accepted": 5661,
+    "released": 5177,
+    "proc": 8.55
+  },
+  {
+    "id": 51,
+    "region": "Республика Марий Эл",
+    "def_prof": -46,
+    "release": 221,
+    "need": 267,
+    "accepted": 4243,
+    "released": 3656,
+    "proc": 13.83
+  },
+  {
+    "id": 52,
+    "region": "Тамбовская область",
+    "def_prof": 17,
+    "release": 275,
+    "need": 258,
+    "accepted": 7561,
+    "released": 6442,
+    "proc": 14.8
+  },
+  {
+    "id": 53,
+    "region": "Орловская область",
+    "def_prof": 54,
+    "release": 310,
+    "need": 256,
+    "accepted": 6690,
+    "released": 6015,
+    "proc": 10.09
+  },
+  {
+    "id": 54,
+    "region": "Костромская область",
+    "def_prof": -128,
+    "release": 111,
+    "need": 239,
+    "accepted": 2415,
+    "released": 2092,
+    "proc": 13.37
+  },
+  {
+    "id": 55,
+    "region": "Республика Мордовия",
+    "def_prof": -42,
+    "release": 182,
+    "need": 224,
+    "accepted": 5717,
+    "released": 5589,
+    "proc": 2.24
+  },
+  {
+    "id": 56,
+    "region": "Архангельская область",
+    "def_prof": 8,
+    "release": 226,
+    "need": 218,
+    "accepted": 4439,
+    "released": 3492,
+    "proc": 21.33
+  },
+  {
+    "id": 57,
+    "region": "Астраханская область",
+    "def_prof": -41,
+    "release": 164,
+    "need": 205,
+    "accepted": 6659,
+    "released": 5458,
+    "proc": 18.04
+  },
+  {
+    "id": 58,
+    "region": "Республика Дагестан",
+    "def_prof": 135,
+    "release": 317,
+    "need": 182,
+    "accepted": 12610,
+    "released": 10901,
+    "proc": 13.55
+  },
+  {
+    "id": 59,
+    "region": "Курганская область",
+    "def_prof": -120,
+    "release": 60,
+    "need": 180,
+    "accepted": 4053,
+    "released": 2916,
+    "proc": 28.05
+  },
+  {
+    "id": 60,
+    "region": "Амурская область",
+    "def_prof": -80,
+    "release": 83,
+    "need": 163,
+    "accepted": 3549,
+    "released": 2497,
+    "proc": 29.64
+  },
+  {
+    "id": 61,
+    "region": "Новгородская область",
+    "def_prof": -134,
+    "release": 28,
+    "need": 162,
+    "accepted": 2396,
+    "released": 1615,
+    "proc": 32.6
+  },
+  {
+    "id": 62,
+    "region": "Мурманская область",
+    "def_prof": -34,
+    "release": 128,
+    "need": 162,
+    "accepted": 1603,
+    "released": 1381,
+    "proc": 13.85
+  },
+  {
+    "id": 63,
+    "region": "Ямало-Ненецкий АО",
+    "def_prof": 214,
+    "release": 376,
+    "need": 162,
+    "accepted": 0,
+    "released": 0,
+    "proc": 0
+  },
+  {
+    "id": 64,
+    "region": "Республика Карелия ",
+    "def_prof": 287,
+    "release": 444,
+    "need": 157,
+    "accepted": 2492,
+    "released": 1887,
+    "proc": 24.28
+  },
+  {
+    "id": 65,
+    "region": "Республика Коми",
+    "def_prof": -28,
+    "release": 125,
+    "need": 153,
+    "accepted": 3356,
+    "released": 3006,
+    "proc": 10.43
+  },
+  {
+    "id": 66,
+    "region": "Псковская область",
+    "def_prof": -45,
+    "release": 96,
+    "need": 141,
+    "accepted": 3026,
+    "released": 2088,
+    "proc": 31.0
+  },
+  {
+    "id": 67,
+    "region": "Республика Бурятия",
+    "def_prof": 139,
+    "release": 280,
+    "need": 141,
+    "accepted": 5547,
+    "released": 3918,
+    "proc": 29.37
+  },
+  {
+    "id": 68,
+    "region": "Республика Саха",
+    "def_prof": 8,
+    "release": 127,
+    "need": 119,
+    "accepted": 6405,
+    "released": 4058,
+    "proc": 36.64
+  },
+  {
+    "id": 69,
+    "region": "Забайкальский край",
+    "def_prof": -43,
+    "release": 68,
+    "need": 111,
+    "accepted": 4349,
+    "released": 3694,
+    "proc": 15.06
+  },
+  {
+    "id": 70,
+    "region": "Республика Хакасия",
+    "def_prof": -55,
+    "release": 55,
+    "need": 110,
+    "accepted": 1800,
+    "released": 1762,
+    "proc": 2.11
+  },
+  {
+    "id": 71,
+    "region": "Сахалинская область",
+    "def_prof": -69,
+    "release": 20,
+    "need": 89,
+    "accepted": 1205,
+    "released": 874,
+    "proc": 27.47
+  },
+  {
+    "id": 72,
+    "region": "Камчатский край",
+    "def_prof": -65,
+    "release": 13,
+    "need": 78,
+    "accepted": 1068,
+    "released": 919,
+    "proc": 13.95
+  },
+  {
+    "id": 73,
+    "region": "Республика Кабардино-Балкария ",
+    "def_prof": 136,
+    "release": 207,
+    "need": 71,
+    "accepted": 3440,
+    "released": 3070,
+    "proc": 10.76
+  },
+  {
+    "id": 74,
+    "region": "Республика Северная Осетия - Аланяи ",
+    "def_prof": -7,
+    "release": 61,
+    "need": 68,
+    "accepted": 4790,
+    "released": 4030,
+    "proc": 15.87
+  },
+  {
+    "id": 75,
+    "region": "Чеченская республика",
+    "def_prof": -12,
+    "release": 43,
+    "need": 55,
+    "accepted": 8389,
+    "released": 5945,
+    "proc": 29.13
+  },
+  {
+    "id": 76,
+    "region": "Республикаа Карачаево-Черкесия ",
+    "def_prof": 156,
+    "release": 206,
+    "need": 50,
+    "accepted": 2346,
+    "released": 2107,
+    "proc": 10.19
+  },
+  {
+    "id": 77,
+    "region": "Республика Адыгея",
+    "def_prof": 127,
+    "release": 175,
+    "need": 48,
+    "accepted": 3725,
+    "released": 3326,
+    "proc": 10.71
+  },
+  {
+    "id": 78,
+    "region": "Республика Калмыкия",
+    "def_prof": -27,
+    "release": 21,
+    "need": 48,
+    "accepted": 1969,
+    "released": 1710,
+    "proc": 13.15
+  },
+  {
+    "id": 79,
+    "region": "Республика Тыва ",
+    "def_prof": -28,
+    "release": 12,
+    "need": 40,
+    "accepted": 1556,
+    "released": 917,
+    "proc": 41.07
+  },
+  {
+    "id": 80,
+    "region": "Магаданская область",
+    "def_prof": -15,
+    "release": 18,
+    "need": 33,
+    "accepted": 470,
+    "released": 366,
+    "proc": 22.13
+  },
+  {
+    "id": 81,
+    "region": "Республика Ингушетия ",
+    "def_prof": 34,
+    "release": 55,
+    "need": 21,
+    "accepted": 2167,
+    "released": 1667,
+    "proc": 23.07
+  },
+  {
+    "id": 82,
+    "region": "Республика Алтай",
+    "def_prof": -1,
+    "release": 18,
+    "need": 19,
+    "accepted": 746,
+    "released": 540,
+    "proc": 27.61
+  },
+  {
+    "id": 83,
+    "region": "Еврейская автономная область",
+    "def_prof": 35,
+    "release": 52,
+    "need": 17,
+    "accepted": 439,
+    "released": 382,
+    "proc": 12.98
+  },
+  {
+    "id": 84,
+    "region": "Севастопольский регион ",
+    "def_prof": 251,
+    "release": 251,
+    "need": 0,
+    "accepted": 4041,
+    "released": 2912,
+    "proc": 27.94
+  }
+]
